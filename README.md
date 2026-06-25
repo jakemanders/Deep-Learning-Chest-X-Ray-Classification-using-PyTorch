@@ -66,5 +66,4 @@ Results are saved under the `output/` directory by default:
 ## Notes
 
 - The dataset folder is intentionally ignored in version control to keep the GitHub repository lightweight.
-- If you want to display the notebook on GitHub, keep `JakeMandersAssignment1.ipynb` as a project artifact.
 - For proper reproducibility, run experiments with the same seed and Torch configuration.
