@@ -1,0 +1,6 @@
+ Regularization type|             Val Loss|         Val accuracy
+----------------------------------------------------------------
+           MLP Model|               2.1111|    81.73076923076923
+          CNN No reg|               1.8413|     76.4423076923077
+      Early stopping|               0.6882|     84.2948717948718
+   L2 regularization|               0.7175|     79.8076923076923
