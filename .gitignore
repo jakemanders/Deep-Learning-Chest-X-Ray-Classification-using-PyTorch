@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.pth
+*.pt
+.env
+.venv/
+venv/
+chest_xray_64/
+output/
